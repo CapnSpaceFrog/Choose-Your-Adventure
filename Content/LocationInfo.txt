@@ -1,0 +1,7 @@
+loc1;this is a debug developer location;Run into the abyss:1-Fight god himself:1-Gain the sword of ultimate power.:1-;
+loc2;this is a debug developer location;Run into the abyss:1-Fight god himself:1-Gain the sword of ultimate power.:1-;
+loc3;this is a debug developer location;Run into the abyss:1-Fight god himself:1-Gain the sword of ultimate power.:1-;
+loc3;this is a debug developer location;Run into the abyss:1-Fight god himself:1-Gain the sword of ultimate power.:1-;
+loc3;this is a debug developer location;Run into the abyss:1-Fight god himself:1-Gain the sword of ultimate power.:1-;
+loc3;this is a debug developer location;Run into the abyss:1-Fight god himself:1-Gain the sword of ultimate power.:1-;
+loc3;this is a debug developer location;Run into the abyss:1-Fight god himself:1-Gain the sword of ultimate power.:1-;
